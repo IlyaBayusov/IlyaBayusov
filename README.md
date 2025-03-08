@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/React-18-blue?logo=react" alt="React" />
     <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" alt="Next.js" />
     <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript" alt="TypeScript" />
+    <img src="/nodedotjs.png" alt='NodeJs' />
   </p>
   <strong align='center'>Contacts</strong>
   <p>
