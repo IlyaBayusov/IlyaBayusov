@@ -5,12 +5,12 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div class="header">
+        <strong>Hi 👋, I'm Ilya Bayusov!</strong>
+        <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF72E&width=435&lines=Front-end+Developer" alt="Typing SVG" /></a>
+        ---
+    </div>
     <div align='center'>
-        <div class="header">
-            <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF72E&width=435&lines=Front-end+Developer" alt="Typing SVG" /></a>
-            <br>
-        <h1>Hi 👋, I'm Ilya Bayusov!</h1>
-      </div>
       <strong align='center'>Stack</strong>
       <p>
         <img src="https://img.shields.io/badge/React-18-blue?logo=react" alt="React" />
