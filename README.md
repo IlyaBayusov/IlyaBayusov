@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF72E&width=220&lines=Front-end+Developer" alt="Front-end Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF72E&width=230&lines=Front-end+Developer" alt="Front-end Developer" />
 
   ## Hi 👋, I'm Ilya Bayusov!
   
