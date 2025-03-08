@@ -1,10 +1,10 @@
-<a href="">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF72E&width=435&lines=Front-end+Developer" alt="Typing SVG" />
-</a>
-
-## Hi 👋, I'm Ilya Bayusov!
-
 <div align='center'>
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF72E&width=435&lines=Front-end+Developer" alt="Typing SVG" />
+  </a>
+
+  ## Hi 👋, I'm Ilya Bayusov!
+  
   <strong align='center'>Stack</strong>
   <p>
     <img src="https://img.shields.io/badge/React-18-blue?logo=react" alt="React" />
