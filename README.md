@@ -8,8 +8,9 @@
 <body>
 
   <div class="header">
-    <h1>Hi 👋, I'm Ilya Bayusov!</h1>
     <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF72E&width=435&lines=Front-end+Developer" alt="Typing SVG" /></a>
+    <br>
+    <h1>Hi 👋, I'm Ilya Bayusov!</h1>
   </div>
 
   <h2 style="text-align: center;">Stack</h2>
@@ -37,11 +38,12 @@
     <a href="https://t.me/g_usyara" target="_blank">
       <img src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge" alt="Telegram" />
     </a>
-
-    <a href="https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTVrVbcsxLBvdMXMfrwzldXnG?compose=GTvVlcSDbSPfJLLzHmqcqjcfDRqswHGtGDHQmZGTfmRbjkNwvGrCTZxsRNZZvLPGnLBdNPdTWdJfh" target="_blank">
+     <a href="https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTVrVbcsxLBvdMXMfrwzldXnG?compose=GTvVlcSDbSPfJLLzHmqcqjcfDRqswHGtGDHQmZGTfmRbjkNwvGrCTZxsRNZZvLPGnLBdNPdTWdJfh" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge" alt="Gmail" />
     </a>
   </p>
+
+  
 
   <h2 style="text-align: center;">Stats</h2>
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
