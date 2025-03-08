@@ -4,8 +4,6 @@
 
 ## Hi 👋, I'm Ilya Bayusov!
 
----
-
 <div align='center'>
   <strong align='center'>Stack</strong>
   <p>
