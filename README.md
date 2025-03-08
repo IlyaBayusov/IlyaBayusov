@@ -11,10 +11,11 @@
     <img height='60px' width='60px' src="/html.png" alt='HTML5' />
     <img height='60px' width='60px' src="/css.png" alt='CSS3' />
     <img height='60px' width='60px' src="/scss.png" alt='SCSS' />
-    <img height='60px' width='60px' src="/nodejs.png" alt='NodeJs' />
-    <img height='60px' width='60px' src="/nodejs.png" alt='NodeJs' />
-    <img height='60px' width='60px' src="/nodejs.png" alt='NodeJs' />
-    <img height='60px' width='60px' src="/nodejs.png" alt='NodeJs' />
+    <img height='60px' width='60px' src="/react.png" alt='React' />
+    <img height='60px' width='60px' src="/nextjs.png" alt='NextJs' />
+    <img height='60px' width='60px' src="/zustand.png" alt='Zustand' />
+    <img height='60px' width='60px' src="/vite.png" alt='Vite' />
+    <img height='60px' width='60px' src="/git.png" alt='Git' />
   </p>
   <strong align='center'>Contacts</strong>
   <p>
