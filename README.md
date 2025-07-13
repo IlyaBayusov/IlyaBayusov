@@ -40,7 +40,5 @@
           alt="CodeWars" 
           width="500"
       />
-    ![Codewars](https://github.r2v.ch/codewars?user=__Ilyusha&name=false&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-<!--     [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ilyushabayka&theme=dark)](https://github.com/ilyushabayka/leetcode-stats) -->
   </div>
 </div>
