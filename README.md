@@ -34,4 +34,8 @@
           width="400"
       />
   </div>
+  <div>
+    [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/__Ilyusha)
+    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ilyushabayka&theme=dark)](https://github.com/ilyushabayka/leetcode-stats)
+  </div>
 </div>
